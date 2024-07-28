@@ -1,33 +1,30 @@
 {
-    "experiences": [
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "App Developer",
+      "subtitle": "Flutter",
+      "workType": "Trainee (Tuwaiq Academy)",
+      "workDescription": [
+        "Flutter: Will gain expertise in building cross-platform mobile applications using Flutter, including UI/UX design and state management.",
+        "Supabase: Will learn to integrate and utilize Supabase for real-time databases and authentication.",
+        "Git & GitHub: Will master version control and collaborative coding with Git and GitHub."
+      ],
+      "dateText": "07/2024 – 11/2024 expected"
+    },
+    {
+      "title": "Full Stack Web Developer (Udemy Course)",
+      "subtitle": "React / Node.js",
+      "workType": "Self-learner",
+      "workDescription": [
+        "React: Built dynamic UIs with components and hooks.",
+        "HTML/CSS/JavaScript: Created responsive web pages and interactive features.",
+        "Node.js: Developed server-side logic and RESTful APIs.",
+        "Express.js: Managed server-side routing and middleware.",
+        "jQuery: Enhanced user interactions with DOM manipulation.",
+        "Bootstrap: Designed responsive layouts with Bootstrap components.",
+        "TypeScript: Used static typing to improve code quality."
+      ],
+      "dateText": "01/2024 – Present"
+    }
+  ]
 }

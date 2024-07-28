@@ -4,34 +4,45 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon":"images/skills/dart.png",
+                    "title":"Dart"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/css.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
+                    "icon": "images/skills/Java.png",
+                    "title": "Java"
+                },
+                {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/supabase.png",
+                    "title": "Supabase"
+                },
+                {
+                    "icon":"images/skills/postgresql.png",
+                    "title":"PostgreSQL"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -47,16 +58,12 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/vscode.png",
+                    "title": "VSCode"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
                 }
             ]
     }
